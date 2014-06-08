@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #################
 ## Eclipse
 #################
@@ -214,3 +215,26 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+=======
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+>>>>>>> 5c346f2832ab94fe0bfc80fc11454961ae3408d9
