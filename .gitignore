@@ -2,9 +2,7 @@
 #################
 ## Eclipse
 #################
-*.sdf
-CODE/Release
-CODE/Debug
+
 *.pydevproject
 .project
 .metadata
