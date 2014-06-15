@@ -1,21 +1,10 @@
-Microsoft Visual Studio Solution File, Format Version 8.00
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Attendance", "Attendance.vcproj", "{FF06CA23-79A9-4B11-8259-C418149DEFF2}"
-	ProjectSection(ProjectDependencies) = postProject
-	EndProjectSection
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{059D6162-CD51-11D0-AE1F-00A0C90FFFC3}") = "Attendance", "Attendance.dsp", "{41FB5E16-1D5C-4ACD-BA70-71646D1B2F5E}"
 EndProject
 Global
-	GlobalSection(SolutionConfiguration) = preSolution
-		Debug = Debug
-		Release = Release
-	EndGlobalSection
-	GlobalSection(ProjectConfiguration) = postSolution
-		{FF06CA23-79A9-4B11-8259-C418149DEFF2}.Debug.ActiveCfg = Debug|Win32
-		{FF06CA23-79A9-4B11-8259-C418149DEFF2}.Debug.Build.0 = Debug|Win32
-		{FF06CA23-79A9-4B11-8259-C418149DEFF2}.Release.ActiveCfg = Release|Win32
-		{FF06CA23-79A9-4B11-8259-C418149DEFF2}.Release.Build.0 = Release|Win32
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-	EndGlobalSection
-	GlobalSection(ExtensibilityAddIns) = postSolution
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal
